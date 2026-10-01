@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- <img src="https://media.discordapp.net/attachments/1541837376664375306/1549613526757154896/blur_edges.png?ex=6aab558f&is=6aaa040f&hm=e87eebf8c47eef1ccedbece23724a83482641ecf4a2569188660e32c48969929&=&format=webp&quality=lossless" />
+ <img src="https://media.discordapp.net/attachments/1520175727914254468/1555256506625171577/blur_edges.png?backend=b2&ex=6abfdcfe&is=6abe8b7e&hm=a8747c8800df0ad7fb3951d2e541772c69ab0d5790aee0c8504504dec936a72a&=&format=webp&quality=lossless" />
 </p>
 
 <p align="center">
