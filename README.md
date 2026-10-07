@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- <img src="https://media.discordapp.net/attachments/1520175727914254468/1555256506625171577/blur_edges.png?backend=b2&ex=6abfdcfe&is=6abe8b7e&hm=a8747c8800df0ad7fb3951d2e541772c69ab0d5790aee0c8504504dec936a72a&=&format=webp&quality=lossless" />
+ <img src="https://files.catbox.moe/dkr5c5.png" />
 </p>
 
 <p align="center">
